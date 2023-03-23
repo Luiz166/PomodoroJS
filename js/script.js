@@ -28,7 +28,7 @@ function startTimer(duration, display) {
             else
                 displayTimer.innerText = '05:00'
         }
-    }, 10)
+    }, 1000)
     
 }
 
